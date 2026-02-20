@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: [username]/docker-demo:v6
+          tags: angeldocker2020/docker-demo:v6
